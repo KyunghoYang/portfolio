@@ -56,6 +56,10 @@ a.text-primary {
   a.text-primary:hover {
     color: #000 !important; }
 
+.text-right{
+  margin-top: 2rem !important;
+}
+
 .bg-primary {
   background-color: #000 !important; }
 
